@@ -1,8 +1,4 @@
-"""
-Konwerter planu lekcji (Excel -> SQL)
-Autor: ChatGPT + Wojciech
-Wymagania: pandas, openpyxl
-"""
+
 
 import pandas as pd
 import re
